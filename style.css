@@ -1,0 +1,93 @@
+
+body{
+    margin: 0;
+}
+
+.header{
+    background-image: url(img/fond.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+    text-align: center;
+    color: white;
+}
+nav{
+    background-color: rgba(255, 255, 255,0.2);
+    padding-top: 10px;
+    
+}
+nav a{
+    text-decoration: none;
+    margin-right: 15px;
+    font-size: 1.5em;
+    display: inline-block;
+    color: white;
+    font-size: 1.5em;
+    font-family: 'Kaushan Script';
+    margin-right: 50px;
+}
+span{
+    display: block;
+   
+}
+article{
+    color: rgb(68, 80, 92);
+}
+hr{
+    color: rgb(220, 206, 221);
+    margin:100px 0;
+}
+h1{
+    
+    font-size: 2em;
+}
+/*corps*/
+   /*section1*/
+   main{
+    color: rgb(68, 80, 92);
+    background-image: url(img/background_section.jpg);
+    clear: both;
+    margin-top: 100px;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+.img1{
+    float: left;
+    margin: 0 20px;
+}
+hr{
+    clear: both;
+}
+.img2{
+    float: right;
+    margin: 0 20px;
+    
+}
+.section1{
+    padding:0  40px;
+}
+.section1 h1{
+    color: rgb(68, 80, 92);
+text-align: center;
+}
+ /*section2*/
+ .section2{
+    color: rgb(68, 80, 92);
+    padding: 60px 0;
+    padding-left: 150px;
+ }
+ .section2 h1{
+    text-align: center;
+    }
+ .section2 div{
+    display: inline-block;
+    width: 25%;
+    margin-right:  5%;
+  
+ }
+
+footer .div {
+  
+    margin-top: 80px;
+    }
